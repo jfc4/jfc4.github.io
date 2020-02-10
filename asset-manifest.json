@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jfc4.github.io/static/css/main.828929ca.chunk.css",
+    "main.js": "/jfc4.github.io/static/js/main.50cf4f6b.chunk.js",
+    "main.js.map": "/jfc4.github.io/static/js/main.50cf4f6b.chunk.js.map",
+    "runtime-main.js": "/jfc4.github.io/static/js/runtime-main.64ad99ce.js",
+    "runtime-main.js.map": "/jfc4.github.io/static/js/runtime-main.64ad99ce.js.map",
+    "static/js/2.56600d9d.chunk.js": "/jfc4.github.io/static/js/2.56600d9d.chunk.js",
+    "static/js/2.56600d9d.chunk.js.map": "/jfc4.github.io/static/js/2.56600d9d.chunk.js.map",
+    "index.html": "/jfc4.github.io/index.html",
+    "precache-manifest.536147d972f83185c2483ff6a6b51951.js": "/jfc4.github.io/precache-manifest.536147d972f83185c2483ff6a6b51951.js",
+    "service-worker.js": "/jfc4.github.io/service-worker.js",
+    "static/css/main.828929ca.chunk.css.map": "/jfc4.github.io/static/css/main.828929ca.chunk.css.map",
+    "static/js/2.56600d9d.chunk.js.LICENSE": "/jfc4.github.io/static/js/2.56600d9d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ad99ce.js",
+    "static/js/2.56600d9d.chunk.js",
+    "static/css/main.828929ca.chunk.css",
+    "static/js/main.50cf4f6b.chunk.js"
+  ]
+}
